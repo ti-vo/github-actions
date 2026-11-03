@@ -3,7 +3,7 @@ def test_calc_addition():
     assert output == 6
 
 
-def test_coucou(): 
+def test_coucou():
     # Function to test if the output returns 'hello'
-    output = 'hello' 
+    output = 'hello'
     assert output == 'hello'
